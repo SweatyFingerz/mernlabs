@@ -1,4 +1,4 @@
-hopKart - Full-Stack E-Commerce Application
+ShopKart - Full-Stack E-Commerce Application
 A complete full-stack MERN e-commerce web application featuring user authentication, product catalog browsing, cart management, wishlist functionality, and order processing.
 
 Features
